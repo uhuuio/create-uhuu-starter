@@ -1,0 +1,17 @@
+{
+  "name": "create-uhuu-starter",
+  "version": "1.0.0",
+  "description": "A CLI tool to create a Uhuu starter app",
+  "main": "cli.js",
+  "bin": {
+    "create-uhuu-starter": "./bin/cli.js"
+  },
+  "keywords": [
+    "uhuu",
+    "starter",
+    "cli",
+    "create-app"
+  ],
+  "author": "Uhuu",
+  "license": "MIT"
+}
