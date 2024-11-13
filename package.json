@@ -1,6 +1,6 @@
 {
   "name": "create-uhuu-starter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A CLI tool to create a Uhuu starter app",
   "license": "MIT",
   "author": "uhuu",
@@ -22,7 +22,7 @@
     "got": "^11.8.5",
     "ora": "^5.4.1",
     "prompts": "2.1.0",
-    "rimraf": "3.0.2",
+    "rimraf": "^4.0.0",
     "tar": "^6.2.0",
     "tslib": "^2.6.2",
     "which-pm-runs": "^1.1.0"
@@ -31,7 +31,7 @@
     "@esbuild-plugins/node-resolve": "^0.1.4",
     "@types/jest": "^29.2.4",
     "@types/prompts": "2.0.1",
-    "@types/rimraf": "3.0.0",
+    "@types/rimraf": "^4.0.0",
     "@types/tar": "^6.1.11",
     "@types/which-pm-runs": "^1.0.0",
     "jest": "^29.3.1",
