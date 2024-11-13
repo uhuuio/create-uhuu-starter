@@ -1,0 +1,14 @@
+{
+  "include": ["src"],
+  "compilerOptions": {
+    "rootDir": "./src",
+    "baseUrl": ".",
+    "allowSyntheticDefaultImports": true,
+    "importHelpers": false,
+    "strict": true,
+    "paths": {
+      "@utils/*": ["src/utils/*"],
+      "@utils": ["src/utils"]
+    }
+  }
+}
